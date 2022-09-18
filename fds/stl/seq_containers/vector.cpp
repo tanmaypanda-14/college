@@ -14,7 +14,7 @@ int main() {
     cin >> temp;
     v.push_back(temp);
   }
-  cout<<endl;
+  cout << endl;
 
   // iterating using stl
   vector<int>::iterator it;
